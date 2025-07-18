@@ -1,0 +1,6 @@
+{
+  "loot_directory": "loot",
+  "interface_blacklist": ["lo", "eth0"],
+  "wordlist_path": "/usr/share/wordlists/rockyou.txt",
+  "oui_api_endpoint": "https://api.macvendors.com/"
+}
